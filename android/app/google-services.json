@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "241469278693",
+    "project_id": "smart-door-lock-ad67f",
+    "storage_bucket": "smart-door-lock-ad67f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241469278693:android:34ebc733ca8ece93c9070c",
+        "android_client_info": {
+          "package_name": "com.example.digtal_lock"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7B6awT6kDgGjZZswIVUNJaiHhgANdBHM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
